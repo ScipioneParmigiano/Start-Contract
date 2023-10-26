@@ -8,7 +8,7 @@ Collection of resources from the Solidity course conducted by [Pietro Zanotta](h
  - [Course slides](https://docs.google.com/presentation/d/1c89LK22RpUxA-UjgySpP43y0a8SqEQFBFDMoa2h5nQg/edit?usp=sharing)
 
 ## Lesson 1: Introduction to Blockchain and Essential Tools
-In our [first session](https://github.com/ScipioneParmigiano/Start-Contract/tree/main/lesson_1), we explore the core concepts of blockchain technology, emphasizing decentralization and consensus. We introduce essential tools like MetaMask for managing cryptocurrency transactions and interacting with Ethereum, as well as Solidity and Remix for smart contract development.
+In our first session, we explore the core concepts of blockchain technology, emphasizing decentralization and consensus. We introduce essential tools like MetaMask for managing cryptocurrency transactions and interacting with Ethereum, as well as Solidity and Remix for smart contract development.
 
 ## Lesson 2: Solidity Syntax Fundamentals
 In the [second lesson](https://github.com/ScipioneParmigiano/Start-Contract/tree/main/lesson_2) of our course, we delved into the fundamental syntax of Solidity through a hands-on approach. Participants actively engage in writing two essential contracts: SimpleStorage and FundMe. 
