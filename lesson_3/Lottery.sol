@@ -18,7 +18,10 @@ contract Lottery {
         if (msg.sender != manager) revert();
         _;
 
-        /* The underscore (_) is a placeholder that represents the body of the function that the modifier is applied to. 
+        /* =>revert(): If the condition msg.sender != manager is true (meaning the sender is not the manager), the revert() function is called. 
+        This immediately ends the execution of the function and reverts any changes made so far. 
+        It essentially acts as a way to revert the transaction if the condition is not met 
+        The underscore (_) is a placeholder that represents the body of the function that the modifier is applied to. 
         When the modifier is used, the code in the modified function is executed at the location of the underscore. */
     }
 
