@@ -16,6 +16,7 @@ The SimpleStorage contract provide an introduction to basic data storage within 
 Through interactive exercises and real-time coding, students not only graspe the intricacies of Solidity syntax but also gain practical experience in crafting functional smart contracts. This initial session set the stage for further exploration into advanced Solidity concepts.
 
 ## Lesson 3: Oracles and Off-chain Data
+In this lesson, we will explore the concept of oracles, focusing on the mechanisms involved in obtaining Ethereum price data and utilizing Verifiable Random Function (VRF) on the blockchain.
 
 ## Lesson 4: Solidity Token Engineering
 
