@@ -20,4 +20,8 @@ In this lesson, we will explore the concept of oracles, focusing on the mechanis
 
 ## Lesson 4: Solidity Token Engineering
 
-## Lesson 5: Front-End Integration with Smart Contracts
+The lesson starts by introducing the fundamental concepts of tokens within Ethereum, highlighting ERC20's role in handling fungible tokens like cryptocurrencies and utility tokens. It then progresses to explain ERC721 and its unique capabilities for representing non-fungible assets such as digital collectibles and real-world items.
+
+Tokenization principles are explored to showcase how assets can be represented as tokens on the blockchain, enabling fractional ownership and increased liquidity. Moreover, learners delve into the integration of IPFS, a decentralized file storage protocol, to store token-related metadata and assets off-chain while ensuring accessibility and immutability.
+
+## Lesson 5: Final Project
