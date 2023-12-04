@@ -19,6 +19,9 @@ Through interactive exercises and real-time coding, students not only graspe the
 In this lesson, we will explore the concept of oracles, focusing on the mechanisms involved in obtaining Ethereum price data and utilizing Verifiable Random Function (VRF) on the blockchain.
 
 ## Lesson 4: Solidity Token Engineering
-In this less we delve into the realm of tokenization, exploring the value of this trend and the value that it can apport to the real world.
 
-## Lesson 5: Final project
+The lesson starts by introducing the fundamental concepts of tokens within Ethereum, highlighting ERC20's role in handling fungible tokens like cryptocurrencies and utility tokens. It then progresses to explain ERC721 and its unique capabilities for representing non-fungible assets such as digital collectibles and real-world items.
+
+Tokenization principles are explored to showcase how assets can be represented as tokens on the blockchain, enabling fractional ownership and increased liquidity. Moreover, learners delve into the integration of IPFS, a decentralized file storage protocol, to store token-related metadata and assets off-chain while ensuring accessibility and immutability.
+
+## Lesson 5: Final Project
