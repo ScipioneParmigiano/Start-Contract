@@ -19,5 +19,6 @@ Through interactive exercises and real-time coding, students not only graspe the
 In this lesson, we will explore the concept of oracles, focusing on the mechanisms involved in obtaining Ethereum price data and utilizing Verifiable Random Function (VRF) on the blockchain.
 
 ## Lesson 4: Solidity Token Engineering
+In this less we delve into the realm of tokenization, exploring the value of this trend and the value that it can apport to the real world.
 
-## Lesson 5: Front-End Integration with Smart Contracts
+## Lesson 5: Final project
